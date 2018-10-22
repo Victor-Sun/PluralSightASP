@@ -11527,23 +11527,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor\\.nuget\\packages\\": {},
+    "C:\\Users\\vsun\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+      "projectUniqueName": "D:\\Projects\\PluralSightASP\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
       "projectName": "DutchTreat",
-      "projectPath": "C:\\Users\\Victor\\source\\repos\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
-      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor\\source\\repos\\DutchTreat\\DutchTreat\\obj\\",
+      "projectPath": "D:\\Projects\\PluralSightASP\\DutchTreat\\DutchTreat\\DutchTreat.csproj",
+      "packagesPath": "C:\\Users\\vsun\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\PluralSightASP\\DutchTreat\\DutchTreat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vsun\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
