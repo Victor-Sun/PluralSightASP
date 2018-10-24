@@ -1,14 +1,15 @@
 {
-	"Colors": {
-		"Favorite": "blue"
-	},
-	"ConnectionStrings": {
-		"DutchConnectionString": "server=(localdb)\\ProjectsV13;Database=DutchTreatDb;Integrated Security=true;MultipleActiveresultSets=true;"
-	},
-	"Logging": {
-		"LogLevel": {
-			"Default": "Information",
-			"Microsoft": "Warning"
-		}
-	}
+  "Colors": {
+    "Favorite": "blue"
+  },
+  "ConnectionStrings": {
+    "DutchConnectionString": "server=(localdb)\\ProjectsV13;Database=DutchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+    
 }
